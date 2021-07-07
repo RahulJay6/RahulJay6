@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulJay6
 - 👀 I’m interested in Machine Intelligence
-- 🌱 I’m currently learning Python/TensorFlow
+- 🌱 I’m currently learning Python/Django
 
 
 <!---
